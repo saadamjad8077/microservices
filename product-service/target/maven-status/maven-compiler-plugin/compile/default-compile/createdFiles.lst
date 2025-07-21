@@ -1,0 +1,7 @@
+com\microservices\product_service\dto\request\ProductRequest.class
+com\microservices\product_service\dto\response\ProductResponse.class
+com\microservices\product_service\ProductServiceApplication.class
+com\microservices\product_service\controller\ProductController.class
+com\microservices\product_service\service\ProductService.class
+com\microservices\product_service\modal\Product.class
+com\microservices\product_service\repository\ProductRepo.class
